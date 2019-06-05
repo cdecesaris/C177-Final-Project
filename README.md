@@ -1,7 +1,7 @@
 # PRINGLE- Program Rendering Interactive Numbers Grapically and Linearly as Expected
 ## Authors: Christopher Yeh, Taylor-Rain Coleman, Christina De Cesaris
 #### Christopher Yeh
-Email:
+Email: chrisyeh98@gmail.com
 #### Taylor-Rain Coleman 
 Email: school@taylor-rain.com
 #### Christina De Cesaris
