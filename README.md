@@ -30,11 +30,10 @@ In order to run this program, no dependancies must be installed. Users can simpl
 ### Instructions: 
 You need to indicate how your program is run.
 1. Run the program using the link: https://eeb177final.shinyapps.io/1DKin_Final/
-2. 
-3. Click each of the input boxes located on the lefthand side of the screen, entering values (either by typing of clicking the 
+2. Click each of the input boxes located on the lefthand side of the screen, entering values (either by typing of clicking the 
 arows) for the scenario you'd like to model.
-4. Once your plot is rendered, you can hover your cursor over the lines in order to view the value of the ordered pair in that location.
-5. In the upper right corner of each of the plots, there are several functions, from left to right they: save an image of the plot, allow you to zoom by clicking and highlighting an area, allow you to pan by dragging your cursor, zoom in, zoom out, autoscale the plot, return to the the original scale, toggle spike lines (which creates dashed lines from the point to the axes, show closest data on hover, and compare data on hover
+3. Once your plot is rendered, you can hover your cursor over the lines in order to view the value of the ordered pair in that location.
+4. In the upper right corner of each of the plots, there are several functions, from left to right they: save an image of the plot, allow you to zoom by clicking and highlighting an area, allow you to pan by dragging your cursor, zoom in, zoom out, autoscale the plot, return to the the original scale, toggle spike lines (which creates dashed lines from the point to the axes, show closest data on hover, and compare data on hover
 
 ### Expected Output: 
 Describe the files and or directories will be produced by your program.
