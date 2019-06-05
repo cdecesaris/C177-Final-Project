@@ -29,7 +29,7 @@ In order to run this program, no dependancies must be installed. Users can simpl
 
 ### Instructions: 
 You need to indicate how your program is run.
-1. Run the program by
+1. Run the program using the link: https://eeb177final.shinyapps.io/1DKin_Final/
 2. 
 3. Click each of the input boxes located on the lefthand side of the screen, entering values (either by typing of clicking the 
 arows) for the scenario you'd like to model.
