@@ -5,7 +5,7 @@ Email: chrisyeh98@gmail.com
 #### Taylor-Rain Coleman 
 Email: school@taylor-rain.com
 #### Christina De Cesaris
-Email: chrisitna.m.decesaris@gmail.com
+Email: christina.m.decesaris@gmail.com
 
 
 
