@@ -36,7 +36,8 @@ When running correctly, the program will produce create three dataframes based o
 - When a is zero and v is non-zero, the a(t) plot will give a horizontal line at zero, the v(t) plot will be horizontal and non-zero, and the x(t) plot will be linear. 
 - When a and v are zero but x is not, the a(t) and v(t) plots will give a horizontal line at zero, and the x(t) plot will be horizontal and non-zero. 
 
-### Zenodo DOI
+### Citing
+Zenodo DOI
 https://doi.org/10.5281/zenodo.3238685
 
 ### References: 
