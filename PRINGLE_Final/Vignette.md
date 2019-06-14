@@ -12,7 +12,9 @@ This is a series of sample inputs and the outputs they will create when the prog
 - a=0
 - v=0
 - x=0
-![Example 1A](https://github.com/cdecesaris/C177-Final-Project/blob/master/PRINGLE_Final/Screen%20Shot%202019-06-14%20at%2010.55.17%20AM.png)
+
+![Example_1A](https://github.com/cdecesaris/C177-Final-Project/blob/master/PRINGLE_Final/Vignette_Images/Screen%20Shot%202019-06-14%20at%2010.55.17%20AM.png)
+![Example_1B](https://github.com/cdecesaris/C177-Final-Project/blob/master/PRINGLE_Final/Vignette_Images/Screen%20Shot%202019-06-14%20at%2010.55.24%20AM.png)
 
 ## Example 2
 - a=0
